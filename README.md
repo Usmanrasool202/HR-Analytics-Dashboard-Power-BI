@@ -1,7 +1,7 @@
 This project presents an interactive **HR Analytics Dashboard** built in **Power BI** to analyze employee attrition and workforce trends.
 ---
 ## 📸 Dashboard Preview
-![Dashboard Preview](HR_Analytics_Dashboard.png)
+![picture](HR_Analytics_Dashboard.png)
 
 ## 🔍 Project Overview
 
@@ -49,7 +49,9 @@ Sample HR dataset used for educational and portfolio purposes.
 
 ---
 
-⭐ If you like this project, don't forget to star the repo! give me line that readme file
+⭐ If you found this project useful, feel free to star the repository or connect with me.
+
+🚀 Always learning and building — open to feedback and collaboration.
 
 ---
 
