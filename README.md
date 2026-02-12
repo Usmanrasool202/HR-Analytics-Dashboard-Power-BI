@@ -43,12 +43,6 @@ To convert raw HR data into actionable insights that help organizations:
 * Business Insight Generation
 ---
 
-## 📊 Dataset
-
-Sample HR dataset used for educational and portfolio purposes.
-
----
-
 ⭐ If you found this project useful, feel free to star the repository or connect with me.
 
 🚀 Always learning and building — open to feedback and collaboration.
